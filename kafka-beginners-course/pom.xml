@@ -23,6 +23,7 @@
     <modules>
         <module>my-kafka-basics</module>
         <module>twitter-producer</module>
+        <module>twitter-elasticsearch</module>
     </modules>
 
     <dependencies>
